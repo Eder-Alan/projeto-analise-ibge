@@ -59,10 +59,15 @@ Streamlit (para criação de dashboards interativos)
 📂 Estrutura do Projeto
 projeto-analise-ibge/
 │
+
 ├── README.md
+
 ├── IBGE_projeto.ipynb
+
 └── RESULTADOS_2024_copia.csv
+
 🔄 Etapas Realizadas
+
 1️⃣ Importação e Leitura dos Dados
 
 Leitura do CSV com encoding adequado
