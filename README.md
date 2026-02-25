@@ -1,6 +1,9 @@
 # projeto-analise-ibge
+
 meu projeto analise de dados ibge
+
 📊 Projeto de Análise de Dados – Resultados 2024
+
 📌 Objetivo
 
 Este projeto tem como objetivo realizar o tratamento, padronização e análise exploratória dos dados públicos de resultados de 2024, garantindo qualidade, consistência e organização das informações para geração de insights estratégicos.
