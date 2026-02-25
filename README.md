@@ -5,7 +5,7 @@ meu projeto analise de dados ibge
 ## 🚀 Executar no Google Colab
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Eder-Alan/projeto-analise-ibge/blob/main/IBGE_projeto.ipynb)
+(https://colab.research.google.com/github/SEU-USUARIO/SEU-REPOSITORIO/blob/main/IBGE_projeto.ipynb)
 
 📊 Projeto de Análise de Dados – Resultados 2024
 
